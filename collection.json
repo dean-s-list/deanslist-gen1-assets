@@ -1,0 +1,16 @@
+{
+  "name": "Deanslist",
+  "symbol": "DEAN",
+  "description": "Service DAO improving the Web3 ecosystem one feedback at a time.",
+  "image": "https://shdw-drive.genesysgo.net/GQfWBgNh4GUM1Y7nRrx8MFiMoxDLcNDCpsptXYxbozAE/collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://shdw-drive.genesysgo.net/GQfWBgNh4GUM1Y7nRrx8MFiMoxDLcNDCpsptXYxbozAE/collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": null
+  }
+}

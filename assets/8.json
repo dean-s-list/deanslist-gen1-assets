@@ -1,0 +1,23 @@
+{
+  "name": "Deanslist #83",
+  "symbol": "DEAN",
+  "description": "Service DAO improving the Web3 ecosystem one feedback at a time.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://shdw-drive.genesysgo.net/GQfWBgNh4GUM1Y7nRrx8MFiMoxDLcNDCpsptXYxbozAE/83.png",
+  "external_url": "",
+  "attributes": [{ "trait_type": "Snake", "value": "Snake_Orange" }],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://shdw-drive.genesysgo.net/GQfWBgNh4GUM1Y7nRrx8MFiMoxDLcNDCpsptXYxbozAE/83.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      { "address": "FAEYozsZVkxhXwG1HnVJn58Ks3dff31zjtA8b3KezFJ6", "share": 50 },
+      { "address": "kruHL3zJ1Mcbdibsna5xM6yMp7PZZ4BsNTpj2UMgvZC", "share": 25 },
+      { "address": "DEESCeDha2heBFePZp8zgXWkYGjBYWJYgqZEX1ExxekQ", "share": 25 }
+    ],
+    "category": "image"
+  }
+}
